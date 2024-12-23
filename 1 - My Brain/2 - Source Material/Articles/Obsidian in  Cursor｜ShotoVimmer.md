@@ -5,7 +5,7 @@ author:
   - "[[松濤Vimmer]]"
 published: 2024-12-18
 created: 2024-12-21
-description: はじめまして。松濤Vimmerと申します。 普段はWeb系の会社でフロントエンドエンジニア、デザイナー、PMなどしております。 早速ですが筆者が投稿した以下のツイートが反響を得ました。   メモ管理は Obsidian in  Cursor が最強。 Obsidianはmd ファイルとして一つ一つが独立して存在している。これらをcursor agent に読み込ませることでmcp みたいな運用ができる。具体的な運用方法は以下リプに載せる。 — 松濤Vimmer (@shotovim) December 16, 2024   投稿した当時はフォロワー10人ほどでしたが、元木さんをは
+description: For note management, Obsidian in Cursor is the best. In Obsidian, each note exists independently as an md file. By having the cursor agent read these, you can operate it like an mcp.
 tags:
   - clippings
 ---
