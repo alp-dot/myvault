@@ -1,7 +1,7 @@
 2024-10-17 09:12
 
 Status: #child
-Tags: [[1 - My Brain/5 - Tag/Business]], [[Elon Musk]]
+Tags: [[Business]], [[Elon Musk]]
 
 # 5 step process
 1. Make your requirement less dumb
