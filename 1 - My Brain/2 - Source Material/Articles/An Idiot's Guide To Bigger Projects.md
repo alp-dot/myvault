@@ -9,17 +9,11 @@ description: If you’ve been using Cursor for a while, and started to get into 
 tags:
   - clippings
 ---
-If you’ve been using Cursor for a while, and started to get into more *complex* projects with it, you’ll almost certainly have come across the challenges of keeping things on track.
-
-It’s not something specific to Cursor of course, it tends to be the nature of AI-assisted coding in general. Small context easy, big context hard. The models have come a long way, but in general humans still tend to do better at knowing what actually *belongs* in the bigger picture.
-
-## Ok, but what is this post? Why would I read it?
-
-I’ve been using Cursor (and other LLM tools) for over a year, so I figured I’d share some of the tricks that have helped me to handle some larger projects. YMMV, but hopefully this might help some folks to squeeze some extra juice out of the AI-assisted orange.
 
 ## 1. Use Composer
 
 Chat’s great for those little quick questions and asides, but (at the time of writing) it doesn’t checkpoint like Composer does. In case you haven’t spotted it, Composer checkpoints your conversation. If things are going sideways, or you’re spending too much time on bugfixes, you can easily track back to an earlier known-good state before the model started mangling your code.
+
 
 ## 2. Git, git, git
 
@@ -77,22 +71,6 @@ Then when you start to get into the code proper, not only can you point out the 
 
 For me, taking this approach has enabled a lot of AI-assisted work that might otherwise have been too complex for straight-ahead coding.
 
-## Final thoughts
-
-Phew, this turned out to be a lot longer than I expected. If you got this far, congratulations, have a GDPR-compliant cookie. 
-
-One last comment about what the AI is doing for you, and then I promise I’m done.
-
-It’s this: don’t forget that LLMs are essentially sophisticated automated ***con-artists*** with access to a lot of training information. Their only trick is to tell you what they “think” you want to hear, and they will do whatever it takes to keep up the illusion that they’re actually intelligent. 
-
-It’s why you get hallucinations (for fun, try asking ChatGPT which specific episode of your favourite TV series has a particular character wearing a bright blue jacket – it’ll make up almost anything to sound convincing).
-
-It’s also why telling them they’re experts kinda works. They will respond in a way that sustains the illusion, choosing words (and syntax) that would be consistent with an expert response. And why sometimes it can even help by telling them to go slowly and take their time. They don’t actually take any longer to respond. But sometimes you get higher quality answers, because they’re more in keeping with what a careful, methodical expert would say – again to preserve the illusion.
-
-Okay, I’m done for real. Hope this ends up being useful to at least one person using Cursor for AI-assisted coding, or at least gives some AI-related food for thought. If it did that for you, feel free to leave a Like, or maybe even reply with your own tips to help bump it up on this busy forum. !
-
-<sub>PS: The title isn’t me being rude to you. The idiot is me.</sub>
-
 ## Addenda et Corrigenda
 
 - Don’t say “yes”. Based on bitter experience, if the model says “Would you like me to go ahead and implement that for you?” and you answer “yes”, you have a non-zero chance of it leaping back to an irrelevant part of the conversation and trying to relive that moment. Always give a clear instruction like “yes, please go ahead and implement the changes you have just recommended” to save yourself the bafflement and burnt credits.
@@ -142,7 +120,7 @@ def do_multiply(a, b):
 **Step 4:** Admire your failures as your mocked-up do\_multiply does nothing useful.  
 <sub>To see them in all their glory, you’d usually use some wrapper code to run all your tests in sequence, catch any exceptions and deliver them in a nice neat output format. You might also have some extra code to do setup (if your code needs any) and teardown (to clean up afterwards). Altogether this will be known as your ‘test harness’, and the AI models are pretty competent at writing this sort of thing for you.</sub>
 
-**Step 5:** I’d give sample code for how to multiply two real numbers, but it would just be so complex ![:laughing:](https://emoji.discourse-cdn.com/twitter/laughing.png?v=12 ":laughing:")
+**Step 5:** I’d give sample code for how to multiply two real numbers, but it would just be so complex !
 
 **Step 6:** Re-run the test harness, and see all your wonderful successes.
 
