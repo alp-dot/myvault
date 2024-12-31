@@ -1,7 +1,7 @@
 2024-10-09 00:32
 
 View Count: 1
-Tags: [[Movie]], [[Fantasy]]
+Tags: #Movie #Fantasy
 
 # 5_Season of Witch
 

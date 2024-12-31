@@ -1,7 +1,7 @@
 2024-10-05 22:34
 
 View Count: 1
-Tags: [[Duncan Jones]], [[Jake Gyllenhaal]], [[Michelle Monaghan]], [[Sci-Fi]], [[Thriller]], [[Movie]]
+Tags: #duncan_jones #jake_gyllenhaal #michelle_monaghan #sci_fi #thriller #movie
 
 # 3_Source Code
 

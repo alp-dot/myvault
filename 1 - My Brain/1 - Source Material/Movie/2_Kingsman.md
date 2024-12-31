@@ -1,7 +1,7 @@
 2024-10-06 19:35
 
 View Count: 1
-Tags: [[Movie]], [[British]], [[Action]], [[Taron Egerton]], [[Colin Firth]], [[Matthew Vaughn]]
+Tags: #movie #british #action #taron_egerton #colin_firth #matthew_vaughn
 
 # Kingsman The Secret Service
  

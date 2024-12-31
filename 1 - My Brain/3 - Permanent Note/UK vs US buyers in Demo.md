@@ -1,4 +1,4 @@
-*tags*: [[Demo]], [[1 - My Brain/5 - Tag/Business]]
+*tags*: #demo #business
 
 UK buyer
 - need more consultative approach

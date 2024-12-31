@@ -1,5 +1,5 @@
 2024-10-19 09:44
-Tags: [[Video]], [[Architecture]]
+Tags: #Video, #Architecture
 # Nakano Broadway Plan 
 - Cafeteria Plan
 
