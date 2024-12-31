@@ -90,4 +90,3 @@ tags:
 僕も多くの子育て世代と共に今日も持ち場で頑張ろうと思う。  
 いつか見る最期の夢の為に。
 
-[![f:id:grand_bishop:20150402123335j:image](https://cdn-ak.f.st-hatena.com/images/fotolife/g/grand_bishop/20150402/20150402123335.jpg "f:id:grand_bishop:20150402123335j:image")](http://f.hatena.ne.jp/grand_bishop/20150402123335)
