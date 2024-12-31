@@ -16,12 +16,13 @@ tags:
   - cursor
   - programming_tips
 ---
+# To DO
 - [x] Use Composer
 - [x] Git, git, git
 - [ ] Introductory prompts
-- [ ] Notepads
+- [x] Notepads
 - [x] Shorter Composer sessions
-- [ ] Demand plan
+- [x] Demand plan
 - [ ] TDD
 ## 1. Use Composer
 
