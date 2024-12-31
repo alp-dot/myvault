@@ -124,4 +124,4 @@ project_root/
 ## References
 - [pytest documentation](https://docs.pytest.org/en/latest/)
 - [python unittest-guide](https://youtu.be/VaFEuHqwJ80?si=wjYLoo--idmKjok4)
-- [[Pytest Test Loader Guide]]
+- [[Comprehensive Guide to Pytest Test Discovery and Collection]]

@@ -12,7 +12,6 @@ tags:
   - "pytest"
   - "test-automation"
 ---
-
 # Pytest Test Discovery and Collection Mechanism
 
 Pytest has a sophisticated test discovery and collection mechanism that allows for flexible and powerful test organization. Understanding these rules helps you structure your test suite effectively.
