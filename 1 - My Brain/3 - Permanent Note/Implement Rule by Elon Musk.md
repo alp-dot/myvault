@@ -1,5 +1,4 @@
-2024-10-17 09:12
-Tags: [[Business]], [[Elon Musk]]
+Tags: #business, #elon_musk
 
 # 5 step process
 1. Make your requirement less dumb
