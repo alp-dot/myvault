@@ -13,10 +13,6 @@ tags:
   - note-management
   - productivity
   - zettelkasten
-  - anki
-  - kindle
-  - github
-  - s3
 ---
 ## 目次
 
