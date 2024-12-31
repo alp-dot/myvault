@@ -1,5 +1,5 @@
 ---
-title: "銅錫杖頭附鉄剣（剣岳発見)"
+title: "Copper Staff Head with Iron Sword (Mount Tsurugi Discovery)"
 source: "https://toyama-bunkaisan.jp/search/1578/"
 author:
   - "[[NW-NU]]"
