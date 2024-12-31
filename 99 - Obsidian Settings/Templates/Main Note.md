@@ -1,7 +1,6 @@
-{{date}} {{time}}
-Tags: [[Movie]]
-
-# {{Title}}
-
-
-# References
+---
+created: 
+tags: 
+description: 
+reference:
+---

@@ -16,7 +16,13 @@ tags:
   - cursor
   - programming_tips
 ---
-
+- [x] Use Composer
+- [x] Git, git, git
+- [ ] Introductory prompts
+- [ ] Notepads
+- [x] Shorter Composer sessions
+- [ ] Demand plan
+- [ ] TDD
 ## 1. Use Composer
 
 Chat’s great for those little quick questions and asides, but (at the time of writing) it doesn’t checkpoint like Composer does. In case you haven’t spotted it, Composer checkpoints your conversation. If things are going sideways, or you’re spending too much time on bugfixes, you can easily track back to an earlier known-good state before the model started mangling your code.
