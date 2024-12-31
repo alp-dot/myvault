@@ -1,6 +1,4 @@
 2024-10-16 13:48
-
-Status: #child
 Tags: [[Technology]], [[bolt.new]]
 
 # What is bolt.new?

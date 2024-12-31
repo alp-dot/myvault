@@ -8,6 +8,13 @@ created: 2024-12-30
 description: If you’ve been using Cursor for a while, and started to get into more complex projects with it.
 tags:
   - clippings
+  - software_development
+  - ai_coding
+  - project_management
+  - test_driven_development
+  - coding_best_practices
+  - cursor
+  - programming_tips
 ---
 
 ## 1. Use Composer

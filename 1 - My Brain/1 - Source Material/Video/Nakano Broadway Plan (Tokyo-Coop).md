@@ -1,6 +1,4 @@
 2024-10-19 09:44
-
-Status: #child
 Tags: [[Video]], [[Architecture]]
 # Nakano Broadway Plan 
 - Cafeteria Plan

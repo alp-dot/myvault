@@ -1,6 +1,4 @@
-[[Stephen Krashen]]
-[[Linguistics]]
-[[English]]
+Tags: #stephen_krashen, #linguistics, #english
 
 >Language acquisition does not require extensive use of conscious grammatical rules, and does not require tedious drill.
 

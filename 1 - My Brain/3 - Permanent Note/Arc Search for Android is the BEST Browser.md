@@ -1,12 +1,11 @@
-possitive: 
+positive: 
 - High-speed search
 - Native adblock
-- Easy to change baetween `cognito` and `incognito` mode
+- Easy to change between `cognito` and `incognito` mode
 
 negative:
 - Cannot use `open new tab`
 - Tab management icon is not cool
 
-[[Arc Search]]
-[[Technology]]
+Tags: #arc_search #technology
 

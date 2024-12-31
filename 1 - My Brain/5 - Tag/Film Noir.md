@@ -1,3 +1,0 @@
-- cinematic term
-- stylized Hollywood crime dramas, particularly those that emphasize cynial attitudes and motivations.
-- 1940s and 1950s are generally regarded as the "classic preriod" of American film noir.

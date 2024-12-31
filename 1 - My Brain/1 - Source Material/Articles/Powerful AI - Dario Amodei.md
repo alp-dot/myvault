@@ -1,5 +1,5 @@
 2024-10-23 13:28
-Tags: [[Dario Amodei]], [[AI]], [[Technology]]
+Tags: #dario_amodei, #ai, #technology, #artificial_intelligence, #future_of_work, #technological_progress, #machine_intelligence
 
 # Powerful AI - Dario Amodei
 

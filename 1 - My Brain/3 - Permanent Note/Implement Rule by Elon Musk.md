@@ -1,6 +1,4 @@
 2024-10-17 09:12
-
-Status: #child
 Tags: [[Business]], [[Elon Musk]]
 
 # 5 step process

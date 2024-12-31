@@ -8,6 +8,15 @@ created: 2024-12-21
 description: For note management, Obsidian in Cursor is the best. In Obsidian, each note exists independently as an md file. By having the cursor agent read these, you can operate it like an mcp.
 tags:
   - clippings
+  - obsidian
+  - cursor
+  - note-management
+  - productivity
+  - zettelkasten
+  - anki
+  - kindle
+  - github
+  - s3
 ---
 ## 目次
 
@@ -337,26 +346,7 @@ indexNote > タグ一覧 から閲覧可能です。
 
 の問題への対応が可能になります。
 
-一方で先に上げたタグ付け自体が手間であり、大量のノートに対して一貫性を保つのが難しいという課題を解決するために、**Cursor Compose Agent** が役立ちます。
-
-以下の例では、指定した期間のノートを Cursor Agent が探索し、各ノートの内容から適切なタグを割り当てる処理を行っています。このとき、タグ運用のルールを適用することで、一貫したタグを付与することができます。
-
-![画像](https://assets.st-note.com/img/1734523505-ayFRbWZYxk35o0OmNhQiB7JP.png?width=1200)
-
-タグルールに則ってタグ付けした例1
-
-〜省略〜
-
-![画像](https://assets.st-note.com/img/1734488452-oldFe8nNxjt0O2TwaR4DMIfZ.png?width=1200)
-
-タグルールに則ってタグ付けした例2
-
-この流れでタグ付けルールに従って、Cursor Agent が自動でタグを付与してくれます。  
-これにより
-
-> タグ付け自体が手間であり、大量のノートに対して一貫性を保つのが難しい
-
-といった問題への対処が可能になり、タグのメリットを最大限活かした運用が可能になります。
+一方で先に上げたタグ付け自体が手間であり、大量のノートに対して一貫性を保つのが難しいというた問題への対処が可能になり、タグのメリットを最大限活かした運用が可能になります。
 
 ## 3\. Cursor で Anki デッキを作成する
 
