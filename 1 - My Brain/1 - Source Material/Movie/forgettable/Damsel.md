@@ -15,7 +15,7 @@ tags:
   - fantasy
 link: https://www.netflix.com/title/80991090
 runtime: 1h 49m
-rating: 3
+rating: 6/10
 view_count: "1"
 ---
 # Notes and Quotes
