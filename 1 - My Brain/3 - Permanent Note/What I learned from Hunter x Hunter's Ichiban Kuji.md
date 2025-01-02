@@ -1,10 +1,9 @@
 ---
-tags:
-  - #hunter_x_hunter
-  - #1kuji
-  - #bot
+created: 2024-12-24
+tags: 
+description: 
+reference:
 ---
-
 Conditions for "Bottable":
 - The same kind of thing has same value.
 	- Digital assets are a prime example.
