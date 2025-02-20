@@ -1,4 +1,4 @@
-# Hawker's Vault: Personal Knowledge Management System
+# Alp's Vault: Personal Knowledge Management System
 
 ## Overview
 This is a personal Obsidian vault for comprehensive knowledge management, designed to organize, connect, and enhance personal learning and note-taking.
