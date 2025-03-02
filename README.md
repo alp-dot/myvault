@@ -10,7 +10,7 @@ This is a personal Obsidian vault for comprehensive knowledge management, design
   - `3 - Permanent Note/`: Finalized notes
   - `4 - Index/`: Organized notes ready for sharing
 - `2 - Daily Note/`: Daily journal and log entries
-- `99 - Obsidian Settings/`: Obsidian configuration fileP
+- `Settings/`: Obsidian configuration fileP
 
 ## 🔧 Enabled Plugins
 - File Explorer
