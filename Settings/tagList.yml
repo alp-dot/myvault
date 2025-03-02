@@ -1,0 +1,63 @@
+# Obsidianで使用されているタグリスト
+
+# AWS関連タグ
+aws:
+  - aws/service
+  - aws/route53
+  - aws/networking
+  - aws/cloudfront
+  - aws/security
+  - aws/directory_service
+  - aws/network_firewall
+  - aws/systems_manager
+  - aws/elb
+
+# 技術関連タグ
+technology:
+  - technology
+  - ai
+  - machine_intelligence
+  - technological_progress
+  - arc_search
+  - cursor
+
+# ビジネス関連タグ
+business:
+  - business
+  - elon_musk
+  - demo
+  - future_of_work
+
+# インフラ関連タグ
+infrastructure:
+  - infrastructure
+  - load_balancer
+  - content_delivery
+  - dns
+  - domain_name
+  - authentication
+
+# メディア関連タグ
+media:
+  - video
+  - architecture
+
+# 人物関連タグ
+people:
+  - dario_amodei
+  - stephen_krashen
+
+# 学問関連タグ
+academic:
+  - linguistics
+  - english
+
+# タグの使用規則と例
+tag_guidelines:
+  format:
+    - 小文字を使用（例：#meeting, #project_alpha）
+    - 階層タグにはスラッシュを使用（例：#project/alpha）
+  examples:
+    - meeting
+    - project_alpha
+    - project/alpha
