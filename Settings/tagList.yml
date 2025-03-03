@@ -51,13 +51,3 @@ people:
 academic:
   - linguistics
   - english
-
-# タグの使用規則と例
-tag_guidelines:
-  format:
-    - 小文字を使用（例：#meeting, #project_alpha）
-    - 階層タグにはスラッシュを使用（例：#project/alpha）
-  examples:
-    - meeting
-    - project_alpha
-    - project/alpha
