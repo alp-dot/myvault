@@ -4,6 +4,7 @@ tags:
   - behavioral_bias
   - decision_making
   - personal_finance
+created: 2025-03-03
 ---
 
 # Thoughts on Behavioral Characteristics and Risk Management
