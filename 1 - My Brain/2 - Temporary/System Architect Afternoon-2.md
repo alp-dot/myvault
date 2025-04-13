@@ -105,3 +105,8 @@ X社はこれらの課題を解決するため、生成AI技術の導入を決�
 <sup>33</sup> 高度情報処理技術者試験のいろいろ｜おやしろ - note, accessed on April 13, 2025, https://note.com/lambda_delta_34/n/na2d0a8329c31
 <sup>34</sup> ローカルLLMの性能向上技術 : RAGとファインチューニングの比較ポイント - GMO Developers, accessed on April 13, 2025, https://developers.gmo.jp/technology/47731/
 <sup>35</sup> 【論文瞬読】AI最前線、
+
+kakikkakaukeko
+ja;wjef;aowejfoj
+
+alwkejfalj
