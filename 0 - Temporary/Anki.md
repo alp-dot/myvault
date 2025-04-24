@@ -2,8 +2,11 @@ TARGET DECK
 sentence-warrior
 
 START
-Basic
-Front: And the test is continuing.2
-Back: Test successful!2
-<!--ID: 1745458487193-->
+sentence-warrior
+Japanese: 私は千束が好きです
+English: I love Chisato.
+KeyPoint: Chisato is super cute.
+<!--ID: 1745459239173-->
 END
+
+私が直近1週間でChatGPTに指示したプロンプトを全て一覧にしてください
