@@ -1,4 +1,6 @@
 
+TARGET DECK
+sentence-warrior
 
 START
 Front:
