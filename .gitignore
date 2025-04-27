@@ -5,3 +5,6 @@
 .trash/
 .DS_Store
 .cursorrules
+
+# Add below lines to exclude Obsidian settings
+Settings/
