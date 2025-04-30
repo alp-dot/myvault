@@ -4,7 +4,6 @@ tags: [cooking, recipe, japanese-food]
 description: How to make takoyaki at home guide
 reference:
 ---
-
 # How to Make Takoyaki at Home
 
 ## Important Points
