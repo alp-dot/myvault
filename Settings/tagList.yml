@@ -51,3 +51,9 @@ people:
 academic:
   - linguistics
   - english
+
+# 料理関連タグ
+cooking:
+  - cooking
+  - recipe
+  - japanese_food
