@@ -1,1 +1,0 @@
-https://globalrph.com/texting-acronyms/a/
