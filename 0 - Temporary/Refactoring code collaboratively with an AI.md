@@ -1,7 +1,8 @@
 ---
 created: 2025-04-30
-tags: 
-description: 
+tags:
+  - programming
+description: When refactoring code collaboratively with an AI, using prompts that clearly articulate the following points is effective
 reference:
 ---
 > When refactoring code collaboratively with an AI, using prompts that clearly articulate the following points is effective:
