@@ -1,8 +1,9 @@
 ---
 created: 2025-05-11
 tags:
-  - plantUML
   - troubleshooting
+  - plantuml
+  - diagram
 description: How to fix PlantUML space-related parsing errors in participant names
 reference:
 ---
